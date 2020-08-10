@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Under Graduate at [SLIIT].
 
-📷 [instagram][instagram] **|** 
+📷 [instagram][instagram] **|** 😊
 👔 [linkedin][linkedin]
 <!--
 
