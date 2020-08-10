@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![SLIIT]: www.Study.sliit.lk
-![instagram]: https://www.instagram.com/_.mitha._/
-![linkedin]: https://www.linkedin.com/in/mithila-panagoda-7b547a15b/
+[SLIIT]: www.Study.sliit.lk
+[instagram]: https://www.instagram.com/_.mitha._/
+[linkedin]: https://www.linkedin.com/in/mithila-panagoda-7b547a15b/
