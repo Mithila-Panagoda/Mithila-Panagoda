@@ -15,6 +15,7 @@
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![Dart](https://img.shields.io/badge/Dart-232F7E?style=flat-square&logo=microsoft-Dart)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
 ![Android](https://img.shields.io/badge/-Android-Black?style=flat-square&logo=Android)
