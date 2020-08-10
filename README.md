@@ -1,8 +1,9 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
 ### Under Graduate at [SLIIT].
 
-📷 [instagram][instagram] **|** 😊
+📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+[![Gmail Badge](https://img.shields.io/badge/-mithilapanagoda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mithilapanagoda@gmail.com)](mailto:kanna6501@gmail.com)
 <!--
 
 Here are some ideas to get you started:
