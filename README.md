@@ -1,7 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
 ### Under Graduate at [SLIIT].
 
-[![Facebook Badge](https://img.shields.io/badge/-_.Mitha._-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mithila.panagoda.1/)](https://instagram.com/kanna6501)
+[![Facebook Badge](https://img.shields.io/badge/-Mithila Panagoda-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mithila.panagoda.1/)](https://instagram.com/kanna6501)
 [![Instagram Badge](https://img.shields.io/badge/-_.Mitha._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.mitha._/)](https://instagram.com/kanna6501)
 [![Linkedin Badge](https://img.shields.io/badge/-Mithila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Gmail Badge](https://img.shields.io/badge/-mithilapanagoda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mithilapanagoda@gmail.com)](mailto:kanna6501@gmail.com)
