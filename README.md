@@ -4,7 +4,7 @@
 # <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="center">
 
 ## 🙋🏿‍♂️ About me
- I am Currently anUnder Graduate at [SLIIT]. Studying Computer Science(software engineering).
+ I am Currently an under Graduate at [SLIIT]. Studying Computer Science(software engineering).
 
 ## 📫 Reach me on
 [![Facebook Badge](https://img.shields.io/badge/-MithilaPanagoda-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mithila.panagoda.1/)](https://www.facebook.com/mithila.panagoda.1/)
@@ -33,6 +33,7 @@
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mithila-Panagoda.Mithila-Panagoda)
+[SLIIT]: Study.sliit.lk
 <!--
 
 Here are some ideas to get you started:
@@ -46,6 +47,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[SLIIT]: Study.sliit.lk
+
 [instagram]: https://www.instagram.com/_.mitha._/
 [linkedin]: https://www.linkedin.com/in/mithila-panagoda-7b547a15b/
