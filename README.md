@@ -1,7 +1,7 @@
 ## Fancy seeing you here!😎 <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
 ### Under Graduate at [SLIIT].
 
-<h2 align="center">📫 Reach me on</h2>
+📫 Reach me on
 <hr>
 [![Facebook Badge](https://img.shields.io/badge/-MithilaPanagoda-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mithila.panagoda.1/)](https://www.facebook.com/mithila.panagoda.1/)
 [![Instagram Badge](https://img.shields.io/badge/-_.Mitha._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.mitha._/)](https://www.instagram.com/_.mitha._/)
