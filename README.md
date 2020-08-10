@@ -33,6 +33,8 @@
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mithila-Panagoda.Mithila-Panagoda)
+
+![image](https://github.com/Mithila-Panagoda/Mithila-Panagoda/blob/master/dino.gif)
 <!--
 
 Here are some ideas to get you started:
