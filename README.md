@@ -1,8 +1,8 @@
-## Fancy seeing you here!😎 <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
+## 😎Fancy seeing you here! <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
 
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" align="center">
 
-### Under Graduate at [SLIIT].
+## Under Graduate at [SLIIT].
 
 ## 📫 Reach me on
 [![Facebook Badge](https://img.shields.io/badge/-MithilaPanagoda-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mithila.panagoda.1/)](https://www.facebook.com/mithila.panagoda.1/)
