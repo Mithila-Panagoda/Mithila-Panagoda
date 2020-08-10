@@ -4,6 +4,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-_.Mitha._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.mitha._/)](https://instagram.com/kanna6501)
 [![Linkedin Badge](https://img.shields.io/badge/-Mithila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Gmail Badge](https://img.shields.io/badge/-mithilapanagoda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mithilapanagoda@gmail.com)](mailto:kanna6501@gmail.com)
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 <!--
 
 Here are some ideas to get you started:
