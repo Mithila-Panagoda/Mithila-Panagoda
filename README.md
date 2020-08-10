@@ -14,7 +14,9 @@
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
 ![Android](https://img.shields.io/badge/-Android-Black?style=flat-square&logo=Android)
