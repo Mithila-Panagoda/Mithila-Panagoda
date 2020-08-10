@@ -1,4 +1,4 @@
-### Hi there 👋
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
 ### Under Graduate at [SLIIT].
 
 📷 [instagram][instagram] **|** 😊
