@@ -1,10 +1,10 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
 ### Under Graduate at [SLIIT].
 
-[![Facebook Badge](https://img.shields.io/badge/-MithilaPanagoda-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mithila.panagoda.1/)](https://instagram.com/kanna6501)
-[![Instagram Badge](https://img.shields.io/badge/-_.Mitha._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.mitha._/)](https://instagram.com/kanna6501)
-[![Linkedin Badge](https://img.shields.io/badge/-Mithila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-mithilapanagoda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mithilapanagoda@gmail.com)](mailto:kanna6501@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-MithilaPanagoda-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mithila.panagoda.1/)](https://www.facebook.com/mithila.panagoda.1/)
+[![Instagram Badge](https://img.shields.io/badge/-_.Mitha._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.mitha._/)](https://www.instagram.com/_.mitha._/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mithila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mithila-panagoda-7b547a15b/)](https://www.linkedin.com/in/mithila-panagoda-7b547a15b/)
+[![Gmail Badge](https://img.shields.io/badge/-mithilapanagoda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mithilapanagoda@gmail.com)](mithilapanagoda@gmail.com))
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
