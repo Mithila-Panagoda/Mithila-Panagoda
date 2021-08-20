@@ -1,7 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
 
-# <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/d9ebz2w-66957331-3bd7-4c21-9da4-f42cb7b178c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZDllYnoydy02Njk1NzMzMS0zYmQ3LTRjMjEtOWRhNC1mNDJjYjdiMTc4YzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fN24kFldhLDg1ad0rzTWYCia2LsbNjnlST2iOVRJ934" alt="Coder GIF" width="1000" height="400" align="center">
-
+# <img src="https://cdn.wallpapersafari.com/26/54/u2x6Pj.gif" alt="Coder GIF" width="1000" height="293" align="center">
 
 ## 🙋🏿‍♂️ About me
  I am Currently an undergraduate at [SLIIT]. Studying Computer Science(software engineering).
@@ -37,7 +36,8 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mithila-Panagoda.Mithila-Panagoda)
 
-# <img src="https://cdn.wallpapersafari.com/26/54/u2x6Pj.gif" alt="Coder GIF" width="1000" height="293" align="center">
+
+# <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/d9ebz2w-66957331-3bd7-4c21-9da4-f42cb7b178c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZDllYnoydy02Njk1NzMzMS0zYmQ3LTRjMjEtOWRhNC1mNDJjYjdiMTc4YzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fN24kFldhLDg1ad0rzTWYCia2LsbNjnlST2iOVRJ934" alt="Coder GIF" width="1000" height="400" align="center">
 <!--
 
 Here are some ideas to get you started:
