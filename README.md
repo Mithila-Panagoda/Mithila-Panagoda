@@ -37,7 +37,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mithila-Panagoda.Mithila-Panagoda)
 
-![image](https://github.com/Mithila-Panagoda/Mithila-Panagoda/blob/master/dino.gif)
+# <img src="https://cdn.wallpapersafari.com/26/54/u2x6Pj.gif" alt="Coder GIF" width="1000" height="293" align="center">
 <!--
 
 Here are some ideas to get you started:
