@@ -3,7 +3,7 @@
 # <img src="https://cdn.wallpapersafari.com/26/54/u2x6Pj.gif" alt="Coder GIF" width="1000" height="293" align="center">
 
 ## 🙋🏿‍♂️ About me
- I am Currently an undergraduate at [SLIIT]. Studying Computer Science(software engineering).
+ I am a trainee Software Engineer (Block chain) at 99x. I completed by Bsc Science (Software Engineering) offered by Curtin University of Australia.
 
 ## 📫 Reach me on
 [![Facebook Badge](https://img.shields.io/badge/-MithilaPanagoda-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mithila.panagoda.1/)](https://www.facebook.com/mithila.panagoda.1/)
