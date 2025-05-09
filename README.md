@@ -27,7 +27,7 @@ I'm a passionate **Senior Software Engineer** specializing in backend systems an
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+- **Languages**: ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/-python-3178C6?style=flat&logo=python&logoColor=white)
 - **Frameworks**: ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 - **Blockchain**: ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) ![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat&logo=polygon&logoColor=white) ![Stellar](https://img.shields.io/badge/-Stellar-7D00FF?style=flat&logo=stellar&logoColor=white)
 - **Tools**: ![Hardhat](https://img.shields.io/badge/-Hardhat-FF9900?style=flat&logo=hardhat&logoColor=white) ![Remix IDE](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix&logoColor=white) ![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white)
