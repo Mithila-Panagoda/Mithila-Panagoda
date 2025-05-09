@@ -1,8 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image.png" alt="Mithila Panagoda Banner" />
-</p>
-
 <h1 align="center">Hi there, I'm Mithila Panagoda 👋</h1>
 
 <p align="center">
