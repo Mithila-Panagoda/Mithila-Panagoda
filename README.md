@@ -1,54 +1,40 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/Mithila-Panagoda/Mithila-Panagoda/master/wave.gif" width="30px">
-# <img src="cover.gif" alt="Coder GIF" width="1000" height="400" align="center">
-<!--
-# <img src="https://cdn.wallpapersafari.com/26/54/u2x6Pj.gif" alt="Coder GIF" width="1000" height="293" align="center">
--->
-<!--
-## 🙋🏿‍♂️ About me
- I am a trainee Software Engineer (Block chain) at 99x. I completed by Bsc Science (Software Engineering) offered by Curtin University of Australia.
--->
-## 📫 Reach me on
-[![Facebook Badge](https://img.shields.io/badge/-MithilaPanagoda-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mithila.panagoda.1/)](https://www.facebook.com/mithila.panagoda.1/)
-[![Instagram Badge](https://img.shields.io/badge/-_.Mitha._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.mitha._/)](https://www.instagram.com/_.mitha._/)
-[![Linkedin Badge](https://img.shields.io/badge/-Mithila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mithila-panagoda-7b547a15b/)](https://www.linkedin.com/in/mithila-panagoda-7b547a15b/)
-[![Gmail Badge](https://img.shields.io/badge/-mithilapanagoda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mithilapanagoda@gmail.com)](mithilapanagoda@gmail.com)
+# 👋 Hello, I'm Mithila Panagoda
 
-## ⚡ Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
-![Android](https://img.shields.io/badge/-Android-Black?style=flat-square&logo=Android)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![FireBase](https://img.shields.io/badge/-FireBase-red?style=flat-square&logo=Firebase)
+🎯 Senior Software Engineer | Blockchain Enthusiast | MBCS  
+📍 Colombo, Sri Lanka  
+🔗 [LinkedIn](https://www.linkedin.com/in/mithila-panagoda-7b547a15b/) | [Flowpage](https://flow.page/mihtilapanagoda)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mithila-Panagoda.Mithila-Panagoda)
+---
 
+### 👨‍💻 About Me
 
+I'm a dedicated software engineer with a strong foundation in backend systems and blockchain development. Currently, I serve as a Senior Software Engineer at Hyperglade, where I focus on bridging real-world assets with decentralized finance solutions. My journey includes:
 
-<!--
+- **Hyperglade**: Leading backend development for RWA platforms, integrating DeFi protocols.
+- **Tracified**: Developed NFT marketplaces, decentralized wallets, and mass balance calculations on the Stellar blockchain.
+- **Academic Background**: BSc in Computer Science (Software Engineering) from Curtin University, Australia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[SLIIT]: www.Study.sliit.lk
-[instagram]: https://www.instagram.com/_.mitha._/
-[linkedin]: https://www.linkedin.com/in/mithila-panagoda-7b547a15b/
+### 🛠️ Technologies & Tools
+
+- **Languages**: TypeScript, Golang, Solidity
+- **Frameworks**: Angular, Ionic, Django
+- **Blockchain**: Ethereum, Polygon, Stellar
+- **Tools**: Hardhat, Remix IDE, OpenZeppelin
+
+---
+
+### 📈 GitHub Stats
+
+![Mithila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithila-Panagoda&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing innovative projects or opportunities in the blockchain space. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/mithila-panagoda-7b547a15b/) or explore more about me on my [Flowpage](https://flow.page/mihtilapanagoda).
+
+---
+
+*“Building decentralized solutions for a more transparent and efficient future.”*
